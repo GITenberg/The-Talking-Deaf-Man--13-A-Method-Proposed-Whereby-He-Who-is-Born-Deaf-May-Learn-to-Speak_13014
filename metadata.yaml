@@ -1,0 +1,34 @@
+_repo: The-Talking-Deaf-Man--13-A-Method-Proposed-Whereby-He-Who-is-Born-Deaf-May-Learn-to-Speak_13014
+_version: 0.0.1
+alternative_title: Surdus loquens. English
+contributor:
+  translator:
+    agent_name: Foot, Daniel, active 1693
+    gutenberg_agent_id: '9418'
+    url: http://www.gutenberg.org/2009/agents/9418
+creator:
+  author:
+    agent_name: Amman, Johann Conrad
+    aliases:
+    - Amman, Joannes Conradus
+    - Amman, John Conrade
+    birthdate: 1669
+    deathdate: 1724
+    gutenberg_agent_id: '4778'
+    url: http://www.gutenberg.org/2009/agents/4778
+description: ''
+gutenberg_issued: '2004-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13014'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Deaf -- Means of communication -- Case studies -- Early works to 1800'
+- GITenberg
+title: "The Talking Deaf Man\r\nA Method Proposed, Whereby He Who is Born Deaf, May\
+  \ Learn to Speak"
+url: http://www.gutenberg.org/ebooks/13014
